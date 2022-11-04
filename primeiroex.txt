@@ -3,3 +3,7 @@ Product Owner: antnio jose
 Equipe: A
 
 (SM)
+
+Desenvolvedor: Marcos Rogério de O. Azevedo
+Habilidades: Python
+Experiências: Shell Scripts
